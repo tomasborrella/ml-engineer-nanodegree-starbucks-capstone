@@ -141,10 +141,11 @@ Two machine learning techniques have been used in this project, both are in  not
 
 ## Results
 
-TO DO (work in progress)
+Detailed results and conclusions are available in a this Medium post:
+[Customer behavior on the Starbucks rewards App]
+(https://medium.com/@tomasborrella/customer-behavior-on-the-starbucks-rewards-app-93fba40244b8)
 
 ## Acknowledgements
 
 Data come from [Starbucks](https://www.starbucks.com/).
 
-Project idea and guidance comes from [Udacity Machine Learning Engineer Nanodegree Program](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
