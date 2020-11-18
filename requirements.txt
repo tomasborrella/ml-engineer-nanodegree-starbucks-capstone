@@ -8,4 +8,4 @@ pylift==0.1.5
 shap==0.35.0
 missingno==0.4.2
 yellowbrick==1.1
-notebook==6.0.3
+notebook==6.1.5
